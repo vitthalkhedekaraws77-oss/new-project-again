@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/new-project-again/', // हे असणं गरजेचं आहे
+  base: '/new-project-again/',
 })
